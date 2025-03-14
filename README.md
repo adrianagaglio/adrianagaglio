@@ -3,13 +3,13 @@
 🚀 Full Stack Developer in crescita | 🌍 Palermo, Italia | 🎯 Passione per la tecnologia ed il coding
 
 💡 Su di me
+
 Sono una sviluppatrice full stack con un forte desiderio di migliorarmi ogni giorno. 
 Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e intuitive. 
 
 🤓 Mi sono formata come fullstack developer ottenendo una certificazione. 
 
-Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot,
-ma essendo curiosa sto anche studiando il linguaggio Python.
+Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot, ma essendo curiosa ho iniziato a studiare il linguaggio Python.
 
 🛠️ Tecnologie e Strumenti
 
