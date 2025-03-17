@@ -3,17 +3,18 @@
 🚀 Full Stack Developer in crescita | 🌍 Palermo, Italia | 🎯 Passione per la tecnologia ed il coding
 
 
-💡 Su di me
+💡 SU DI ME
 
-Sono una sviluppatrice full stack con un forte desiderio di migliorarmi ogni giorno. 
+Sono una sviluppatrice fullstack con un forte desiderio di migliorarmi ogni giorno. 
 Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e intuitive. 
+
 
 🤓 Mi sono formata come fullstack developer ottenendo una certificazione. 
 
 Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot, ma essendo curiosa ed avendo sempre voglia di imparare cose nuove ho di recente iniziato a studiare il linguaggio Python.
 
 
-🛠️ Tecnologie e Strumenti
+🛠️ TECNOLOGIE E STRUMENTI
 
 Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular
 
@@ -24,16 +25,10 @@ DevOps: Docker, Firebase
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 
-🔥 Progetti in Evidenza #da migliorare
-
-🏥 Medical App - Gestione pazienti e appuntamenti per studi medici
-
-🐶 Pet Sitter Hub - Piattaforma per la ricerca di pet sitter
-
-🎵 Spotify Clone - Un esercizio per replicare l'interfaccia utente di Spotify
+🔥 A breve disponibili i miei progetti in evidenza
 
 
-📌 Obiettivi Attuali
+📌 OBIETTIVI ATTUALI:
 
 ✅ Approfondire Docker per la containerizzazione
 ✅ Migliorare le competenze backend con Java e Spring
@@ -41,7 +36,7 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ✅ Imparare a programmare con Python
 
 
-📫 Contattami per collaborare
+📫 CONTATTAMI PER COLLABORARE O PER MAGGIORI INFORMAZIONI
 
 Email: adriana.gaglio@gmail.com
 
@@ -51,5 +46,6 @@ Portfolio: https://devalchemistlab.com
 
 ✨ "L'unico limite è quello che ti imponi."
 
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio)](https://github.com/adrianagaglio/github-readme-stats)
