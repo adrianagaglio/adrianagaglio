@@ -51,4 +51,4 @@ Portfolio: https://devalchemistlab.com
 
 ✨ "L'unico limite è quello che ti imponi."
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adrianagaglio&show_icons=true&theme=radical)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianagaglio&repo=github-readme-stats)](https://github.com/adrianagaglio/github-readme-stats)
