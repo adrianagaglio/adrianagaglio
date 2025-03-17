@@ -50,4 +50,3 @@ Portfolio: https://devalchemistlab.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio)](https://github.com/adrianagaglio/github-readme-stats)
