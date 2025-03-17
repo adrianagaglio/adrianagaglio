@@ -51,4 +51,4 @@ Portfolio: https://devalchemistlab.com
 
 ✨ "L'unico limite è quello che ti imponi."
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianagaglio&repo=github-readme-stats)](https://github.com/adrianagaglio/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adrianagaglio&repo=github-readme-stats)](https://github.com/adrianagaglio/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
