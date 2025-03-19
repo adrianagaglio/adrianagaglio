@@ -29,6 +29,9 @@ DevOps: Docker, Firebase
 
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
+##  💻 Ultimi progetti:
+
+Health Desk: https://lnkd.in/dBbmszs5
 
 ## 📌 Obiettivi attuali:
 
@@ -46,8 +49,6 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ✉️ adriana.gaglio@gmail.com
 
 🔗 https://linkedin.com/in/adriana-gaglio
-
-Portfolio: https://devalchemistlab.com
 
 
 
