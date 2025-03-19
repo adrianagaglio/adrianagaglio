@@ -51,5 +51,5 @@ Portfolio: https://devalchemistlab.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true) 
+![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=adrianagaglio&title=Commits,Repositories,Experience,Followers)](https://github.com/adrianagaglio/github-profile-trophy)
