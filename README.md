@@ -2,6 +2,10 @@
 
 🚀 Full Stack Developer in crescita | 🌍 Palermo, Italia | 🎯 Passione per la tecnologia ed il coding
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,postgres,docker)](https://skillicons.dev)
 
 💡 SU DI ME
 
@@ -48,8 +52,5 @@ Portfolio: https://devalchemistlab.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,java,spring,postgres)](https://skillicons.dev)
 
