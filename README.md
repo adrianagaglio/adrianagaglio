@@ -4,8 +4,8 @@
 
 
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,postgres,docker)](https://skillicons.dev)
+## Tech Stack & Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,postgres,docker,firebase)](https://skillicons.dev)
 
 ## 💡 Su di me
 
