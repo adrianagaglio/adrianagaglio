@@ -1,13 +1,13 @@
-👋 Ciao, sono Adriana!
+## 👋 Ciao, sono Adriana!
 
 🚀 Full Stack Developer in crescita | 🌍 Palermo, Italia | 🎯 Passione per la tecnologia ed il coding
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
+
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,postgres,docker)](https://skillicons.dev)
 
-💡 SU DI ME
+## 💡 SU DI ME
 
 Sono una sviluppatrice fullstack con un forte desiderio di migliorarmi ogni giorno. 
 Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e intuitive. 
@@ -18,7 +18,7 @@ Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e in
 Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot, ma essendo curiosa ed avendo sempre voglia di imparare cose nuove ho di recente iniziato a studiare il linguaggio Python.
 
 
-🛠️ TECNOLOGIE E STRUMENTI
+## 🛠️ TECNOLOGIE E STRUMENTI
 
 Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular
 
@@ -32,7 +32,7 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 🔥 A breve disponibili i miei progetti in evidenza
 
 
-📌 OBIETTIVI ATTUALI:
+## 📌 OBIETTIVI ATTUALI:
 
 ✅ Approfondire Docker per la containerizzazione
 ✅ Migliorare le competenze backend con Java e Spring
@@ -40,17 +40,17 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ✅ Imparare a programmare con Python
 
 
-📫 CONTATTAMI PER COLLABORARE O PER MAGGIORI INFORMAZIONI
+## 📫 CONTATTAMI PER COLLABORARE O PER MAGGIORI INFORMAZIONI
 
-Email: adriana.gaglio@gmail.com
+✉️ adriana.gaglio@gmail.com
 
-LinkedIn: https://linkedin.com/in/adriana-gaglio
+🔗 https://linkedin.com/in/adriana-gaglio
 
 Portfolio: https://devalchemistlab.com
 
-✨ "L'unico limite è quello che ti imponi."
+## ✨ "L'unico limite è quello che ti imponi."
 
 
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
 
