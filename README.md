@@ -29,14 +29,14 @@ DevOps: Docker, Firebase
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 
-🔥 A breve disponibili i miei progetti in evidenza
-
-
 ## 📌 OBIETTIVI ATTUALI:
 
 ✅ Approfondire Docker per la containerizzazione
+
 ✅ Migliorare le competenze backend con Java e Spring
+
 ✅ Creare progetti che arricchiscano il mio portfolio
+
 ✅ Imparare a programmare con Python
 
 
