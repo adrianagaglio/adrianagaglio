@@ -48,5 +48,8 @@ Portfolio: https://devalchemistlab.com
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=false&lang=it)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true)
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,java,spring,postgres)](https://skillicons.dev)
 
