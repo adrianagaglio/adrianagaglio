@@ -49,8 +49,6 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 Portfolio: https://devalchemistlab.com
 
-## ✨ "L'unico limite è quello che ti imponi."
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&hide_progress=true) 
