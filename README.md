@@ -7,18 +7,19 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,postgres,docker)](https://skillicons.dev)
 
-## 💡 SU DI ME
+## 💡 Su di me
 
 Sono una sviluppatrice fullstack con un forte desiderio di migliorarmi ogni giorno. 
 Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e intuitive. 
 
+## 🏆 Achievements
 
 🤓 Mi sono formata come fullstack developer ottenendo una certificazione. 
 
 Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot, ma essendo curiosa ed avendo sempre voglia di imparare cose nuove ho di recente iniziato a studiare il linguaggio Python.
 
 
-## 🛠️ TECNOLOGIE E STRUMENTI
+## 🛠️ Tecnologie e strumenti
 
 Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular
 
@@ -29,7 +30,7 @@ DevOps: Docker, Firebase
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 
-## 📌 OBIETTIVI ATTUALI:
+## 📌 Obiettivi attuali:
 
 ✅ Approfondire Docker per la containerizzazione
 
@@ -40,7 +41,7 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ✅ Imparare a programmare con Python
 
 
-## 📫 CONTATTAMI PER COLLABORARE O PER MAGGIORI INFORMAZIONI
+## 📫 Contattami per info o collaborazioni
 
 ✉️ adriana.gaglio@gmail.com
 
