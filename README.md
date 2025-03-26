@@ -54,4 +54,8 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ## Stats
 ![Linguaggi più utilizzati](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianagaglio&show_icons=true&hide_border=true&layout=compact)
 
+<a href="https://github.com/adrianagaglio">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianagaglio&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio)](https://github.com/adrianagaglio/github-readme-stats)
