@@ -56,6 +56,6 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianagaglio&layout=compact&langs_count=100&card_width=320" />
 </a>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio)](https://github.com/adrianagaglio/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio&layout=compact)](https://github.com/adrianagaglio/github-readme-stats)
 
 
