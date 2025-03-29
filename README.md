@@ -1,6 +1,6 @@
 ## 👋 Ciao, sono Adriana!
 
-🚀 Full Stack Developer in continua evoluzione | 🌍 Palermo, Italia 
+🚀 Junior Full Stack Developer in continua evoluzione | 🌍 Palermo, Italia 
 
 
 
@@ -54,7 +54,7 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 🔗 https://linkedin.com/in/adriana-gaglio
 
 
-## Stats
+## 📈 Stats
 <a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianagaglio&layout=compact&langs_count=100&card_width=320" /></a> <a>  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio&layout=compact&hide=Properties,Java+Properties,Gitignore+file,Nginx+configuration+file,Git+config,Git&card_width=320"/></a>
 
 
