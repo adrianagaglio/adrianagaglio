@@ -39,7 +39,8 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 ✅ Migliorare le competenze backend con Java e Spring
 
-✅ Creare progetti che arricchiscano il mio portfolio
+✅ Refactoring vecchi progetti da pubblicare (profilo GitHub in aggiornamento ![LoadingGIF](https://github.com/user-attachments/assets/61c25647-5123-485d-8607-06ac4dee7256)
+)
 
 ✅ Imparare a programmare con Python
 
