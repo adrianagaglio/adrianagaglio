@@ -41,7 +41,9 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 ✅ Imparare a programmare con Python
 
-✅ Refactoring vecchi progetti da pubblicare (profilo GitHub in aggiornamento) ![LoadingGIF](https://github.com/user-attachments/assets/61c25647-5123-485d-8607-06ac4dee7256)
+✅ Refactoring vecchi progetti da pubblicare (profilo GitHub in aggiornamento) 
+
+![LoadingGIF](https://github.com/user-attachments/assets/61c25647-5123-485d-8607-06ac4dee7256)
 
 
 
