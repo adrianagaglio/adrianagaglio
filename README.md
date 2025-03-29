@@ -1,6 +1,6 @@
 ## 👋 Ciao, sono Adriana!
 
-🚀 Full Stack Developer in crescita | 🌍 Palermo, Italia | 🎯 Passione per la tecnologia ed il coding
+🚀 Full Stack Developer in continua evoluzione | 🌍 Palermo, Italia 
 
 
 
