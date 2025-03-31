@@ -29,9 +29,9 @@ DevOps: Docker, Firebase
 
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
-##  💻 Ultimi progetti:
+##  💻 Portfolio:
 
-[Health Desk](https://healt-desk-7d46c.web.app/)
+[Portfolio](https://adrianagagliodev.it/)
 
 ## 📌 Obiettivi attuali:
 
