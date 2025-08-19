@@ -37,9 +37,11 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
 ✅ Approfondire Docker per la containerizzazione
 
-✅ Migliorare le competenze backend con Java e Spring
+✅ Passare al livello successivo con JavaScript: Funzionalità avanzate e Node.js
 
-✅ Imparare a programmare con Python
+✅ Integrare Python e PHP al mio stack
+
+✅ Migliorare le competenze backend con Java e Spring
 
 ✅ Refactoring vecchi progetti da pubblicare (profilo GitHub in aggiornamento) 
 
