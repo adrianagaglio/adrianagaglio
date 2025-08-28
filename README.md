@@ -23,9 +23,9 @@ Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java
 
 Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular
 
-Backend: Java, Spring Boot, PostgreSQL
+Backend: Java, Spring Boot, PostgreSQL, Php, Laravel
 
-DevOps: Docker, Firebase
+DevOps: Docker, Firebase, Vercel, Netlify, Render
 
 Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 
