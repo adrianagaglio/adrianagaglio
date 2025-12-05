@@ -21,9 +21,9 @@ Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java
 
 ## 🛠️ Tecnologie e strumenti
 
-Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular
+Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular, React
 
-Backend: Java, Spring Boot, PostgreSQL, Php, Laravel
+Backend: Java, Spring Boot, PostgreSQL, Php, Laravel, Node.js
 
 DevOps: Docker, Firebase, Vercel, Netlify, Render
 
@@ -38,8 +38,6 @@ Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
 ✅ Approfondire Docker per la containerizzazione
 
 ✅ Passare al livello successivo con JavaScript: Funzionalità avanzate e Node.js
-
-✅ Integrare Python e PHP al mio stack
 
 ✅ Migliorare le competenze backend con Java e Spring
 
