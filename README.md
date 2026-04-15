@@ -9,12 +9,15 @@ Lavoro su applicazioni reali seguendo l’intero ciclo di vita: dalla progettazi
 ## 🖥️ Tech Stack & Tools
 
 **Frontend**
+
 [![Frontend](https://skillicons.dev/icons?i=ts,js,react,angular)](https://skillicons.dev)
 
 **Backend**
+
 [![Backend](https://skillicons.dev/icons?i=nodejs,java,spring)](https://skillicons.dev)
 
 **Database & Infra**
+
 [![Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,nginx,git)](https://skillicons.dev)
 
 ---
