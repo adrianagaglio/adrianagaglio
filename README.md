@@ -1,60 +1,43 @@
-## 👋 Ciao, sono Adriana!
+## 👋 Ciao, sono Adriana
 
-🚀 Junior Full Stack Developer in continua evoluzione | 🌍 Palermo, Italia 
+Full Stack Developer freelance con un ruolo attivo nello sviluppo e nell’evoluzione tecnica di prodotti web.
 
+Lavoro su applicazioni reali seguendo l’intero ciclo di vita: dalla progettazione all’implementazione, fino al deploy e alla manutenzione. Mi occupo sia di sviluppo che di scelte architetturali, con attenzione a scalabilità, affidabilità e sostenibilità nel tempo.
 
+---
 
 ## 🖥️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,spring,php,laravel,postgres,mysql,docker,firebase)](https://skillicons.dev)
 
-## 💡 Su di me
+**Frontend**
+[![Frontend](https://skillicons.dev/icons?i=ts,js,react,angular)](https://skillicons.dev)
 
-Sono una sviluppatrice fullstack con un forte desiderio di migliorarmi ogni giorno. 
-Amo le sfide, apprendo rapidamente e mi piace costruire soluzioni scalabili e intuitive. 
+**Backend**
+[![Backend](https://skillicons.dev/icons?i=nodejs,java,spring)](https://skillicons.dev)
 
-## 🏆 Achievements
+**Database & Infra**
+[![Infra](https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,nginx,git)](https://skillicons.dev)
 
-🤓 Mi sono formata come fullstack developer ottenendo una certificazione. 
+---
 
-Attualmente mi sto dedicando all'approfondimento dello sviluppo backend con Java e Spring Boot, ma essendo curiosa ed avendo sempre voglia di imparare cose nuove ho di recente iniziato a studiare il linguaggio Python.
+## 🧠 Come lavoro
 
+- Analizzo i requisiti con approccio critico, non eseguo “alla cieca”
+- Progetto soluzioni che abbiano senso sia tecnico che di business
+- Mi occupo di flussi complessi (es. pagamenti, integrazioni esterne)
+- Gestisco debugging e ottimizzazione su sistemi reali
+- Collaboro con team e stakeholder contribuendo alle decisioni tecniche
 
-## 🛠️ Tecnologie e strumenti
+---
 
-Frontend: HTML, CSS (SASS), JavaScript, TypeScript, Angular, React
+## 📌 Attualmente
 
-Backend: Java, Spring Boot, PostgreSQL, Php, Laravel, Node.js
+- Sto approfondendo Docker e la containerizzazione
+- Lavoro su architetture backend sempre più strutturate
+- Mi occupo dell’evoluzione tecnica di una piattaforma in produzione
 
-DevOps: Docker, Firebase, Vercel, Netlify, Render
+---
 
-Altro: Git, REST API, UI Frameworks (Bootstrap, Material, ng-bootstrap)
+## 📫 Contatti
 
-##  💻 Portfolio:
-
-[Portfolio](https://adrianagagliodev.it/)
-
-## 📌 Obiettivi attuali:
-
-✅ Approfondire Docker per la containerizzazione
-
-✅ Passare al livello successivo con JavaScript: Funzionalità avanzate e Node.js
-
-✅ Migliorare le competenze backend con Java e Spring
-
-✅ Refactoring vecchi progetti da pubblicare (profilo GitHub in aggiornamento) 
-
-![LoadingGIF](https://github.com/user-attachments/assets/61c25647-5123-485d-8607-06ac4dee7256)
-
-
-
-## 📫 Contattami per info o collaborazioni
-
-✉️ adriana.gaglio@gmail.com
-
-🔗 https://linkedin.com/in/adriana-gaglio
-
-
-## 📈 Stats
-<a><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianagaglio&layout=compact&langs_count=100&card_width=320" /></a> <a>  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=adrianagaglio&layout=compact&hide=Properties,Gitignore+file,Nginx+configuration+file,Git+config,Git,textmate,text,Yaml,XML,Bash&card_width=320"/></a>
-
-
+- 📧 Email: adriana.gaglio@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/adriana-gaglio
